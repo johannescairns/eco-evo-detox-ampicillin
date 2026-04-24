@@ -1,0 +1,78 @@
+cff-version: 1.2.0
+
+title: "Eco-evolutionary dynamics and environmental detoxification shape bacterial community response to antibiotic perturbation"
+
+message: "If you use this code, please cite the associated manuscript."
+
+type: software
+
+authors:
+  - family-names: Cairns
+    given-names: Johannes
+    orcid: "https://orcid.org/0000-0003-1329-2025"
+    email: "johannes.cairns@med.lu.se"
+
+  - family-names: Smolander
+    given-names: Niina
+    orcid: "https://orcid.org/0000-0003-4329-4785"
+    email: "niina.smolander@hotmail.com"
+
+  - family-names: Pausio
+    given-names: Sanna
+    orcid: "https://orcid.org/0009-0008-3210-5313"
+
+  - family-names: Pitkänen
+    given-names: Olli
+
+  - family-names: Lindqvist
+    given-names: Meri
+    orcid: "https://orcid.org/0009-0002-6968-5792"
+
+  - family-names: Tamminen
+    given-names: Manu
+    orcid: "https://orcid.org/0000-0001-5891-7653"
+
+  - family-names: Das Roy
+    given-names: Rishi
+    orcid: "https://orcid.org/0000-0002-3276-7279"
+
+  - family-names: Friman
+    given-names: Ville-Petri
+    orcid: "https://orcid.org/0000-0002-1592-157X"
+
+  - family-names: Becks
+    given-names: Lutz
+    orcid: "https://orcid.org/0000-0002-3885-5253"
+
+  - family-names: Mustonen
+    given-names: Ville
+    orcid: "https://orcid.org/0000-0002-7270-1792"
+
+  - family-names: Hiltunen
+    given-names: Teppo
+    orcid: "https://orcid.org/0000-0001-7206-2399"
+    email: "teppo.hiltunen@utu.fi"
+
+repository-code: "https://github.com/johannescairns/eco-evo-detox-ampicillin"
+
+version: 1.0.0
+
+date-released: 2026-04-24
+
+license: MIT
+
+keywords:
+  - microbial communities
+  - antibiotic resistance
+  - eco-evolutionary dynamics
+  - environmental detoxification
+  - ampicillin
+  - community ecology
+
+abstract: >
+  Microbial communities frequently encounter recurrent antibiotic disturbance,
+  yet how ecological, evolutionary, and environmental processes jointly shape
+  the response remains unresolved. This repository contains the downstream
+  analysis code and processed data used to reproduce the analyses and figures
+  for the associated manuscript.
+
