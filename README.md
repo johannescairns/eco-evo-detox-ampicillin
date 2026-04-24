@@ -34,8 +34,8 @@ The repository includes:
 
 - `figs/`  
   Figure PDFs produced by the analysis notebooks:
-  - `Fig2.pdf`, `Fig3.pdf`, `Fig4.pdf`, `Fig5.pdf`
-  - `ED_Fig_1.pdf` … `ED_Fig_7.pdf`
+  - `Fig2.pdf`, `Fig3.pdf`, `Fig4.pdf`, `Fig6.pdf`
+  - `ED_Fig1.pdf` … `ED_Fig6.pdf`
 
 ---
 
@@ -60,8 +60,6 @@ To force regeneration of all figure PDFs:
 
 ```bash
 rm -f figs/*.pdf
-
----
 
 ## Citation
 
