@@ -54,20 +54,12 @@ For this reason, run notebooks with the working directory set to `notebooks/` (o
 
 A typical figure notebook writes the corresponding PDF to `figs/` (e.g. `01_Fig2_related_analyses.ipynb` writes `figs/Fig2.pdf`).
 
-### Clean rebuild (optional)
+---
 
-To force regeneration of all figure PDFs:
-
-```bash
-rm -f figs/*.pdf
-
-```markdown
 ## Citation
 
 If you use this code, please cite:
 
-Cairns J, Smolander N, Pausio S, Pitkänen O, Lindqvist M, Tamminen M, Das Roy R, Friman V-P, Becks L, Mustonen V, Hiltunen T (2025).  
-Eco-evolutionary dynamics and environmental detoxification shape bacterial community response to antibiotic perturbation.
+Cairns J, Smolander N, Pausio S, Pitkänen O, Lindqvist M, Tamminen M, Das Roy R, Friman V-P, Becks L, Mustonen V, Mustonen V, Hiltunen T (2025). Eco-evolutionary dynamics and environmental detoxification shape bacterial community response to antibiotic perturbation.
 
-Code repository:
-https://github.com/johannescairns/eco-evo-detox-ampicillin
+Code repository: https://github.com/johannescairns/eco-evo-detox-ampicillin
