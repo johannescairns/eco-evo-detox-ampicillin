@@ -61,6 +61,7 @@ To force regeneration of all figure PDFs:
 ```bash
 rm -f figs/*.pdf
 
+```markdown
 ## Citation
 
 If you use this code, please cite:
