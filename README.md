@@ -26,16 +26,17 @@ The repository includes:
   - `01_Fig2_related_analyses.ipynb`
   - `02_Fig3_related_analyses.ipynb`
   - `03_Fig4_related_analyses.ipynb`
-  - `04_Fig5.ipynb`
+  - `04_Fig5_related_analyses.ipynb`
   - `05_mutation_analysis.ipynb`
-  - `06_CNV_analysis_READY.ipynb`
-  - `07_Extended_Data.ipynb`
+  - `05_Fig6.ipynb`
+  - `07_CNV_analysis_READY.ipynb`
+  - `08_Supplementary_Figs.ipynb`
   - `project_settings.R`
 
 - `figs/`  
   Figure PDFs produced by the analysis notebooks:
   - `Fig2.pdf`, `Fig3.pdf`, `Fig4.pdf`, `Fig6.pdf`
-  - `ED_Fig1.pdf` … `ED_Fig6.pdf`
+  - `Fig_S1.pdf` … `Fig_S6.pdf`
 
 ---
 
